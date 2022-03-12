@@ -1,0 +1,13 @@
+api/node_modules
+admin/node_modules
+client/node_modules
+/node_modules
+
+admin/firebase.js
+
+
+api/.env
+client/.env
+
+
+
